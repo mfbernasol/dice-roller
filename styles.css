@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+}
+body {
+    background-color: #206a5d;
+}
+
+.dice{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+
+.dice-container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
