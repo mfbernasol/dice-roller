@@ -11,6 +11,7 @@ body {
     text-align: center;
     margin: auto;
     display: inline-block;
+    width: 10%;
 }
 
 .dice-container {
